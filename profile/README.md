@@ -1,0 +1,1 @@
+This is a collection of many of the scripts and tools I developed during my PhD and Postdoc at Department of Clinical Genetics and Clinical Genome Center at University of Southern Denmark and Odense University Hospital
